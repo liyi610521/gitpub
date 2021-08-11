@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 1111
 fix bug 101
 add hello.py
+add tag v1.0
